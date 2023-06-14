@@ -1,0 +1,5 @@
+display all users
+display one user
+login(password,email)
+signup(body)
+delete user(email)
